@@ -1,0 +1,1 @@
+Because of the global pandemic of Covid-19, wearing a face mask in public is becoming increasingly popular. Since the people of Covid-19 refuse secure their health by wearing masks against air pollution broader public by moving their own faces. Putting face masks helps to prevent Covid-19 transmission
