@@ -13,4 +13,6 @@ You need to first install python Libraries onto your computer:
 After Installing and running the project this will be the final output:
 
 ![img_screenshot_09 01 2023](https://github.com/DevasnhJajoria/Face-mask-detection-software/assets/72540738/4127c2a6-e229-44a4-85a9-b39ac8f264c8)
+
+
 ![img_screenshot_09 01 2023 with mask](https://github.com/DevasnhJajoria/Face-mask-detection-software/assets/72540738/b1374b89-fb8b-4463-a190-cde6acc8f77c)
